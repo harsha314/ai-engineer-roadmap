@@ -56,6 +56,39 @@
 - [Embeddings](https://www.cloudflare.com/en-gb/learning/ai/what-are-embeddings/)
 - [Word Embeddings](https://www.youtube.com/watch?v=wgfSDrqYMJ4)
 
+### Vector Databases
+
+- Vector databases are specialized systems designed to store, index, and retrieve high-dimensional vectors, often used as embeddings that represent data like text, images, or audio.
+- Vector databases excel at managing unstructured data by enabling fast similarity searches, where vectors are compared to find those that are most similar to a query.
+- This makes them essential for tasks like semantic search, recommendation systems, and content discovery, where understanding relationships between items is crucial.
+- Vector databases use indexing techniques such as approximate nearest neighbor (ANN) search to efficiently handle large datasets, ensuring quick and accurate retrieval even at scale.
+
+### AI Agents
+
+- In AI engineering, "agents" refer to autonomous systems or components that can perceive their environment, make decisions, and take actions to achieve specific goals.
+- Agents often interact with external systems, users, or other agents to carry out complex tasks.
+- They can vary in complexity, from simple rule-based bots to sophisticated AI-powered agents that leverage machine learning models, natural language processing, and reinforcement learning.
+
+- [Building an AI Agent](https://python.langchain.com/docs/tutorials/agents/)
+- [AI Agents & their types](https://play.ht/blog/ai-agents-use-cases/)
+- [Beginners guide to building AI Agents](https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX)
+
+### RAG (Retrieval Augmented Generation)
+
+- Retrieval-Augmented Generation (RAG) is an AI approach that combines information retrieval with language generation to create more accurate, contextually relevant outputs.
+- It works by first retrieving relevant data from a knowledge base or external source, then using a language model to generate a response based on that information.
+- This method enhances the accuracy of generative models by grounding their outputs in real-world data, making RAG ideal for tasks like question answering, summarization, and chatbots that require reliable, up-to-date information.
+
+### Prompt Engineering
+
+- Prompt engineering is the process of crafting effective inputs (prompts) to guide AI models, like GPT, to generate desired outputs.
+- It involves strategically designing prompts to optimize the model’s performance by providing clear instructions, context, and examples.
+- Effective prompt engineering can improve the quality, relevance, and accuracy of responses, making it essential for applications like chatbots, content generation, and automated support.
+- By refining prompts, developers can better control the model’s behavior, reduce ambiguity, and achieve more consistent results, enhancing the overall effectiveness of AI-driven systems.
+
+- [Prompt Engineer Roadmap](https://roadmap.sh/prompt-engineering)
+- [What is Prompt Engineering](https://www.youtube.com/watch?v=nf1e-55KKbg)
+
 ## Resources
 
 - [ML Intro Course](https://mlcourse.ai/book/topic01/topic01_intro.html)
