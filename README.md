@@ -104,6 +104,11 @@
 - [Prompt Injection in LLMs](https://www.promptingguide.ai/prompts/adversarial-prompting/prompt-injection)
 - [What is a Prompt Injection Attack](https://www.wiz.io/academy/prompt-injection-attack)
 
+### OpenAI Moderation API
+
+- [Moderation API](https://platform.openai.com/docs/guides/moderation)
+- [Moderation tutorial](https://cookbook.openai.com/examples/how_to_use_moderation)
+
 ## Resources
 
 - [ML Intro Course](https://mlcourse.ai/book/topic01/topic01_intro.html)
